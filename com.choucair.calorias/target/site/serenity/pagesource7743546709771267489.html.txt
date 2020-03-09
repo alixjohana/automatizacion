@@ -1,0 +1,383 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link rel="Shortcut Icon" href="images/favicon.ico" />
+<title>Calorias diarias - Calculadora</title>
+<meta name="description" content="Nuestra calculadora de calorías diarias necesarias le muestra cuantas hay que consumir para bajar, mantener o subir de peso." />	
+<meta name="keywords" content="calcular, calculo, calculadora, contar, calorías, calorias, diarias, necesarias,quemadas,consumidas, sexo, edad, peso, altura, dia" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="author" content="Victor Fernandez Viagas" />
+<meta http-equiv="Content-Language" content="es" />
+<link href="css/global.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script src="https://connect.facebook.net/en_US/all.js?hash=be20c9487806a6494dc2c0e57a9940b3&amp;ua=modern_es6" async="" crossorigin="anonymous"></script><script src="https://partner.googleadservices.com/gampad/cookie.js?domain=www.caloriasdiarias.es&amp;callback=_gfp_s_&amp;client=ca-pub-1163898186254760"></script><script src="https://pagead2.googlesyndication.com/pagead/js/r20200303/r20190131/show_ads_impl_fy2019.js" id="google_shimpl"></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.es.Ec1C14iae80.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=wQE/rs=AGLTcCNwCXxPNuV4IbSxECRQpTwifvFR2A/cb=gapi.loaded_0" async=""></script><script src="js/caloriasdiarias.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js" gapi_processed="true">
+  {lang: 'es', parsetags: 'explicit'}
+</script>
+<link rel="preload" href="https://adservice.google.com.co/adsid/integrator.js?domain=www.caloriasdiarias.es" as="script" /><script type="text/javascript" src="https://adservice.google.com.co/adsid/integrator.js?domain=www.caloriasdiarias.es"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.caloriasdiarias.es" as="script" /><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.caloriasdiarias.es"></script><script charset="utf-8" src="https://platform.twitter.com/js/button.93a0c25c2d2f3081c705c98c2d9dec0e.js"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset&gt;div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title&gt;span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style></head>
+<body>
+<div id="panel-global">
+
+	<div id="panel-superior">
+		<div id="panel-titulo">
+			<h1>Calculo Calorias Diarias</h1>
+	  </div>
+		<div id="panel-subtitulo">
+			<table border="0" align="center">
+			<tbody>
+			<tr>
+			<td style=" padding-left:0px;">
+			<h2>Calculadora calorías necesarias por dia</h2>
+            </td><!--
+            <td style=" padding-left:180px;">      
+            <a href="http://www.calculoparo.com"><img width="20" height="14" border="0" src="images/espanol.png" alt="bandera espanola" style="margin-right: 10px; margin-top: 2px;"/></a>  
+            </td>
+            <td style=" padding-left:0px;">        
+            <a href="http://www.indennitadidisoccupazione.it"><img width="20" height="14" border="0" src="images/italiano.png" alt="bandera italiana" style="margin-right: 10px; margin-top: 2px;"/></a>
+            </td>-->
+            </tr>
+            </tbody>
+            </table>
+            
+		</div>
+
+	</div>
+	
+	<div id="panel-medio">
+		<div id="panel-medio-menus">
+			<div class="panel-menu-primero">
+				<div class="panel-menu-superior">
+				<span>NUESTRAS CALCULADORAS</span>
+				</div>
+				<div class="panel-menu-medio">		
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.caloriasdiarias.es">Calorias Diarias</a></p>
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.porcentajedegrasacorperal.com">Porcentaje  Grasa Corporal</a></p>
+                  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calculoimc.com"> IMC</a></p>
+                  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calculadoraamor.es">Mi Pareja Ideal</a></p>
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calcularcalorias.es">Obtener Calorias</a></p>
+<p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calculopesoideal.com">Mi Peso Ideal</a></p>
+<p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calculadoraovulacion.es">Mi Ovulacion</a></p>
+<p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.compatibilidadamor.com">Compatibilidad Amor</a></p>
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.caloriasalimentos.es">Calorias Comidas</a></p>
+</div>
+
+				<div class="panel-menu-inferior">
+				</div>
+			</div>
+			<table border="0" align="center">
+			<tbody>
+			<tr>
+			<td>
+			<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- CaloriasDiarias 250x250 -->
+<ins class="adsbygoogle" style="display:inline-block;width:250px;height:250px" data-ad-client="ca-pub-1163898186254760" data-ad-slot="9754289509" data-adsbygoogle-status="done"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:250px;margin:0;padding:0;position:relative;visibility:visible;width:250px;background-color:transparent;"><ins id="aswift_0_anchor" style="display:block;border:none;height:250px;margin:0;padding:0;position:relative;visibility:visible;width:250px;background-color:transparent;"><iframe width="250" height="250" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0px;width:250px;height:250px;"></iframe></ins></ins></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</td>
+			</tr>
+			</tbody>
+			</table>
+
+		</div>
+		<div id="panel-medio-central">
+<table border="0" align="center" style="padding-bottom:15px;">
+<tbody>
+<tr>
+<td>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- CaloriasDiarias 468x15 Enlaces -->
+<ins class="adsbygoogle" style="display:inline-block;width:468px;height:15px" data-ad-client="ca-pub-1163898186254760" data-ad-slot="6661222309" data-adsbygoogle-status="done"><ins id="aswift_1_expand" style="display:inline-table;border:none;height:15px;margin:0;padding:0;position:relative;visibility:visible;width:468px;background-color:transparent;"><ins id="aswift_1_anchor" style="display:block;border:none;height:15px;margin:0;padding:0;position:relative;visibility:visible;width:468px;background-color:transparent;"><iframe width="468" height="15" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;border:0px;width:468px;height:15px;"></iframe></ins></ins></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</td>
+</tr>
+</tbody>
+</table>
+        <table cellspacing="0" cellpadding="0" border="0" align="right" style="margin-right:5px;margin-left:5px;">
+	<tbody>
+	<tr>
+	<td>
+    <!--Boton Facebook-->
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div><script src="http://connect.facebook.net/en_US/all.js#appId=264658266883307&amp;xfbml=1"></script><fb:like href="" send="false" layout="box_count" show_faces="true" font="" class=" fb_iframe_widget" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=264658266883307&amp;container_width=0&amp;href=http%3A%2F%2Fwww.caloriasdiarias.es%2F&amp;layout=box_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=true"><span style="vertical-align: bottom; width: 59px; height: 40px;"><iframe name="f24561f6dfe3204" width="1000px" height="1000px" title="fb:like Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/plugins/like.php?app_id=264658266883307&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df12e9878c51b474%26domain%3Dwww.caloriasdiarias.es%26origin%3Dhttp%253A%252F%252Fwww.caloriasdiarias.es%252Ff360e6117ac8524%26relation%3Dparent.parent&amp;container_width=0&amp;href=http%3A%2F%2Fwww.caloriasdiarias.es%2F&amp;layout=box_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=true" style="border: none; visibility: visible; width: 59px; height: 40px;" class=""></iframe></span></fb:like>
+    <!--Boton tweeter-->
+<iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" style="position: static; visibility: visible; width: 70px; height: 20px;" title="Twitter Tweet Button" src="https://platform.twitter.com/widgets/tweet_button.7aeb03ce9f308997020e5998720fbbf7.es.html#dnt=false&amp;id=twitter-widget-0&amp;lang=es&amp;original_referer=http%3A%2F%2Fwww.caloriasdiarias.es%2F&amp;size=m&amp;text=Calorias%20diarias%20-%20Calculadora&amp;time=1583352566988&amp;type=share&amp;url=http%3A%2F%2Fwww.caloriasdiarias.es%2F"></iframe><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<!-- Botón +1 -->
+<div id="___plusone_0" style="position: absolute; width: 450px; left: -10000px;"><iframe ng-non-bindable="" frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position:absolute;top:-10000px;width:450px;margin:0px;border-style:none" tabindex="0" vspace="0" width="100%" id="I0_1583352564722" name="I0_1583352564722" src="https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&amp;size=tall&amp;hl=es&amp;origin=http%3A%2F%2Fwww.caloriasdiarias.es&amp;url=http%3A%2F%2Fwww.caloriasdiarias.es%2F&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.es.Ec1C14iae80.O%2Fam%3DwQE%2Fd%3D1%2Fct%3Dzgms%2Frs%3DAGLTcCNwCXxPNuV4IbSxECRQpTwifvFR2A%2Fm%3D__features__#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh&amp;id=I0_1583352564722&amp;_gfid=I0_1583352564722&amp;parent=http%3A%2F%2Fwww.caloriasdiarias.es&amp;pfname=&amp;rpctoken=36921675" data-gapiattached="true"></iframe></div><g:plusone size="tall" data-gapiscan="true" data-gapistub="true"></g:plusone>
+<script type="text/javascript">gapi.plusone.go();</script>
+</td></tr></tbody></table>
+<div style=" text-align:justify">¿Cuantas calorias diarias hay que consumir para bajar de peso?¿cual es  la dieta ideal? Nuestra calculadora te puede ayudar con estas  preguntas. Únicamente tienes que introducir tu sexo, edad, peso, altura y nivel  de actividad física en los recuadros abajo, y nuestra web realizará el calculo  del numero de kilocalorias necesarias para mantener, bajar o ganar peso.</div>
+		  <div class="panel-calculo-arriba">NUMERO DE KILOCALORIAS RECOMENDADA:
+		  </div>
+		  <div id="panel-calculo">
+				<form action="" class="formulario" id="formulario1" name="formulario1">
+					<fieldset class="form_labels">
+						<div id="errorCalorias" class="error"></div>
+						<div id="divSalario">
+						<p style="padding-left:20px;">Introduce las siguientes variables en nuestra calculadora y pulsa el  botón para obtener el resultado abajo.</p>
+                        <div class="form_labelbox">
+					    <label class="labelformcalculo" style="margin-left:27px;" for="sexo">Sexo:</label>
+							     
+				    <select style="width: 110px;" class="selectInput" tabindex="3" id="sexo" name="sexo">
+							  <option value="hombre" selected="selected">Hombre</option>
+							  <option value="mujer">Mujer</option>
+							</select>
+						</div>
+                        <div class="form_labelbox">
+						  <label class="labelformcalculo" style="margin-left:27px;" for="altura">Altura (cm.):</label>
+							     
+				    		<input type="text" alt="" style="width: 140px;" tabindex="1" maxlength="9" size="9" value="" id="altura" name="altura" />  cm.
+						</div>
+						<div class="form_labelbox">
+				      <label class="labelformcalculo" style="margin-left:27px;" for="peso">Peso (kg.):</label>
+      						 
+				    		<input type="text" alt="" style="width: 140px;" tabindex="1" maxlength="9" size="9" value="" id="peso" name="peso" />  kg.
+						</div>
+						<!--El input que viene a continuación no sirve para nada,sólo sirve para que el formulario no se ejecute cuando hacemos intro en el input anterior-->
+						<input style="display:none;" />
+						</div>
+						<div class="form_labelbox">
+							<label class="labelformcalculo" style="margin-left:27px;" for="cintura">Edad:</label>
+							 
+
+				    		<input type="text" alt="" style="width: 140px;" tabindex="1" maxlength="9" size="9" value="" id="edad" name="edad" />
+				    		 años.</div>
+
+
+						<div id="divHijos">
+						<div class="form_labelbox">
+							<label class="labelformcalculo" style="margin-left:27px;" for="nivelActividad">Nivel Actividad:</label>
+							     
+				    		<select style="width: 310px;" class="selectInput" tabindex="3" id="nivelActividad" name="nivelActividad">
+							  <option value="sedentario" selected="selected">Sedentario: poco o ningún ejercicio</option>
+							  <option value="pocoActivo">Poco activo: ejercicio 1-3 veces por semana</option>
+							  <option value="medianamente">Medianamente activo: ejercicio 3-5 veces por semana</option>
+							  <option value="activo">Muy activo: ejercicio 6-7 veces por semana</option>
+							  <option value="extraActivo">Extra activo: ejercicios muy intensos / trabajo físico</option>
+							</select>
+						</div>
+						</div>
+						
+						<table cellspacing="0" cellpadding="0" border="0" align="right" style="margin-top: 5px;margin-right:5px;">
+	<tbody>
+	<tr>
+	<td>
+	<div class="form_buttonbox">
+					  <input type="button" value="Calcular calorias diarias" onclick="calcularCaloriasDiarias();return true" />
+        </div>
+        </td>
+        </tr>
+		</tbody>
+		</table>	
+					
+						<div id="enlaceCalculo" style="padding-right: 45px;">
+		<table cellspacing="0" cellpadding="0" border="0" align="right">
+		<tbody>
+		<tr>
+		<td style="padding-top:20px; ">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- CaloriasDiarias 125x125 -->
+<ins class="adsbygoogle" style="display:inline-block;width:125px;height:125px" data-ad-client="ca-pub-1163898186254760" data-ad-slot="9614688709" data-adsbygoogle-status="done"><ins id="aswift_2_expand" style="display:inline-table;border:none;height:125px;margin:0;padding:0;position:relative;visibility:visible;width:125px;background-color:transparent;"><ins id="aswift_2_anchor" style="display:block;border:none;height:125px;margin:0;padding:0;position:relative;visibility:visible;width:125px;background-color:transparent;"><iframe width="125" height="125" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_2" name="aswift_2" style="left:0;position:absolute;top:0;border:0px;width:125px;height:125px;"></iframe></ins></ins></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		</td>
+		</tr>
+		</tbody>
+		</table></div>
+					</fieldset>
+				</form>
+          </div>
+		  <div class="panel-calculo-arriba">
+		  RESULTADO:
+		  </div>
+
+		  <div id="panel-resultado">
+				<form action="" method="post" class="formulario" id="formulario2" name="formulario2">
+					<fieldset class="form_labels" style="padding:10px 10px 10px 15pt; ">
+					<div id="resultadoPrimero">
+						<div class="form_labelbox">
+				    		<label>Necesita </label><input type="text" alt="" style="width: 70px;" tabindex="7" maxlength="9" size="9" class="textInput" value="" id="resultado1" name="resultado1" />
+				    		kilo 
+				    		<label> calorias (kcal) diarias para mantener el peso. </label> 
+						</div>
+				    <div class="form_labelbox">
+				    		<input type="text" alt="" style="width: 70px;" tabindex="7" maxlength="9" size="9" class="textInput" value="" id="resultado2" name="resultado2" />
+			    		<label> kilo 
+		    		    calorias (kcal) al día hay que consumir para bajar de peso 0.5 kg. a la semana. </label> 
+					  </div>
+				    <div class="form_labelbox">
+				    		<input type="text" alt="" style="width: 70px;" tabindex="7" maxlength="9" size="9" class="textInput" value="" id="resultado3" name="resultado3" />
+			    		<label> kilo 
+		    		    calorias (kcal) al día hay que consumir para bajar de peso 1 kg. a la semana. </label> 
+					  </div>
+					  <div class="form_labelbox">
+				    		<label>Necesita </label><input type="text" alt="" style="width: 70px;" tabindex="7" maxlength="9" size="9" class="textInput" value="" id="resultado4" name="resultado4" />
+			    		  <label> kilo 
+			    		  calorias (kcal)  diarias para ganar 0.5 kg. a la semana. </label> 
+						</div>
+					  <div class="form_labelbox">
+				    		<label>Necesita </label><input type="text" alt="" style="width: 70px;" tabindex="7" maxlength="9" size="9" class="textInput" value="" id="resultado5" name="resultado5" />
+			    		<label> kilo 
+		    		    calorias (kcal)  diarias para </label>
+				    		ganar 1 kg. a la semana. </div>
+					</div>
+											
+					<div id="errorResultados" class="error"></div>
+
+				</fieldset>
+			</form>
+			<br />
+<table border="0" align="center">
+<tbody>
+<tr>
+<td>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- CaloriasDiarias 336x280 -->
+<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-1163898186254760" data-ad-slot="4264960306" data-adsbygoogle-status="done"><ins id="aswift_3_expand" style="display:inline-table;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:336px;background-color:transparent;"><ins id="aswift_3_anchor" style="display:block;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:336px;background-color:transparent;"><iframe width="336" height="280" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_3" name="aswift_3" style="left:0;position:absolute;top:0;border:0px;width:336px;height:280px;"></iframe></ins></ins></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</td>
+</tr>
+</tbody>
+</table>
+
+<div style=" text-align:justify">
+<p>Para obtener una estimación de las calorías quemadas haciendo ejercicio, según el deporte que sea, la duración de la actividad y el peso, pinche en <a href="http://www.calcularcalorias.es">www.calcularcalorias.es</a>.</p>
+<p>Para obtener una estimación de las calorías que aporta un  alimento, pinche en <a href="http://www.caloriasalimentos.es">www.caloriasalimentos.es</a>.</p>
+</div>       
+	
+						
+          </div>
+      </div>
+	  
+	  <div id="panel-medio-menus2">
+			<div class="panel-menu-segundo" style="margin-top:20px;">
+				<div class="panel-menu-superior">
+				<span>OTRAS CALCULADORAS:</span>
+				</div>
+				<div class="panel-menu-medio">		
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calculoindemnizacion.com">Tasa Indemnizacion</a></p>
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calculoparo.com"> Subsidio Desempleo</a></p>
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calcularraizcuadrada.com">Obtener Raiz Cuadrada</a></p>
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.nombresparaniños.es/">Nombres para Niños</a></p>
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calculareliva.es">Calcular IVA </a></p>	
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calculardiasfertiles.es/">Mis Dias Fertiles</a></p>
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.nombresparaniñas.es/">Nombres para Niñas</a></p>
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.cobrarparo.es/como-cobrar-el-paro.php">Como Cobrar el Paro</a></p>
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calculararea.com">Como obtener Area Figura</a></p>
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calcularporcentaje.es">Determinar porcentaje</a></p>
+                  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calcularmedia.es">Calcular Media Aritmética</a></p>
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.formulaarea.es">Formula Area</a></p>
+				</div>
+
+				<div class="panel-menu-inferior">
+				</div>
+			</div>
+	  		<div class="panel-menu-segundo" style="margin-top:10px;">
+				<div class="panel-menu-superior">
+				<span>CALCULADORAS OTROS IDIOMAS</span>
+				</div>
+				<div class="panel-menu-medio">		
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calcolostipendionetto.it/">Sueldo Neto (italiano)</a></p>
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calculatesquareroot.in">How Calculate Square Root</a></p>	
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calcolobmi.it"> IMC (ingles)</a></p>		
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calcoloarea.it">Determinar Area en italiano</a></p>
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calcolosettimanegravidanza.com/">Semana de Embarazo</a></p>
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calcoloovulazione.com"> Ovulazione</a></p>
+				  <p style="margin-top:10px;margin-bottom:10px;"><a href="http://www.calcolapesoideale.it"> Peso Ideal (Italiano)</a></p>
+                </div>
+				<div class="panel-menu-inferior">
+				</div>
+			</div>
+			<div class="panel-menu-tercero" style="margin-top:10px;">
+					<div class="panel-menu-superior">
+						<span>E-MAIL DE CONTACTO</span>
+				  </div>
+						<div class="panel-menu-medio">		
+						  <script type="text/javascript">// &lt;![CDATA[
+						  function enviacorreo(){
+						  dest1="economicca";
+						  dest2="gmail.com";
+						  dest="mailto:"+dest1+"@"+dest2;
+						  location.href=dest;
+						  }
+						  // ]]&gt;</script>
+						  <p style="margin-top:10px;margin-bottom:10px;"><a href="javascript:enviacorreo()">CONTACTE CON ADMINISTRADOR</a></p>
+						</div>
+		
+						<div class="panel-menu-inferior">
+						</div>
+			  </div>
+	  </div>
+  </div>
+	  
+	<div id="panel-inferior">
+						
+	</div>
+    <!--//BLOQUE COOKIES-->
+    <!--googleoff: all -->
+<div id="barraaceptacion" style="display: block;">
+    <div class="inner">
+        Solicitamos su permiso para obtener datos estadísticos de su navegación en esta web, en cumplimiento del Real 
+        Decreto-ley 13/2012. Si continúa navegando consideramos que acepta el uso de cookies.
+        <a href="javascript:void(0);" class="ok" onclick="PonerCookie();" rel="”nofollow”"><b>OK</b></a> | 
+        <a href="http://www.google.com/intl/es/policies/privacy/partners/" target="_blank" class="info" rel="”nofollow”">Más información</a>
+    </div>
+</div>
+ 
+<script>
+function getCookie(c_name){
+    var c_value = document.cookie;
+    var c_start = c_value.indexOf(" " + c_name + "=");
+    if (c_start == -1){
+        c_start = c_value.indexOf(c_name + "=");
+    }
+    if (c_start == -1){
+        c_value = null;
+    }else{
+        c_start = c_value.indexOf("=", c_start) + 1;
+        var c_end = c_value.indexOf(";", c_start);
+        if (c_end == -1){
+            c_end = c_value.length;
+        }
+        c_value = unescape(c_value.substring(c_start,c_end));
+    }
+    return c_value;
+}
+ 
+function setCookie(c_name,value,exdays){
+    var exdate=new Date();
+    exdate.setDate(exdate.getDate() + exdays);
+    var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+    document.cookie=c_name + "=" + c_value;
+}
+ 
+if(getCookie('tiendaaviso')!="1"){
+    document.getElementById("barraaceptacion").style.display="block";
+}
+function PonerCookie(){
+    setCookie('tiendaaviso','1',365);
+    document.getElementById("barraaceptacion").style.display="none";
+}
+</script>
+<!--googleon: all -->
+<!--//FIN BLOQUE COOKIES-->
+</div><iframe id="google_osd_static_frame_7641546814886" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17552013-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;"><ins id="aswift_4_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><ins id="aswift_4_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_4" name="aswift_4" style="left:0;position:absolute;top:0;border:0px;width:0px;height:0px;"></iframe></ins></ins></ins><iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.7aeb03ce9f308997020e5998720fbbf7.html?origin=http%3A%2F%2Fwww.caloriasdiarias.es" title="Twitter settings iframe" style="display: none;"></iframe></body><iframe id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20200303/r20190131/zrt_lookup.html#" data-ad-client="ca-pub-1163898186254760" style="display: none;"></iframe></html>
